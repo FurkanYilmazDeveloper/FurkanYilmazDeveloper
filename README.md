@@ -1,7 +1,7 @@
 ### 👋 Merhaba, ben Furkan 
 
 - 📫 Mail: furkanyilmaz.andev@gmail.com  
-- 💼 LinkedIn:([https://linkedin.com/in/kullaniciadi](https://www.linkedin.com/in/furkan-arda-y%C4%B1lmaz-dev/))  
+- 💼 LinkedIn:(https://www.linkedin.com/in/furkan-arda-y%C4%B1lmaz-dev/))  
 
 ---
 
