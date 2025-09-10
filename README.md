@@ -7,10 +7,8 @@ A passionate developer with a background in robotics, AI, and instructional tech
 
 ## 📌 About Me
 - 🎓 Currently a senior student at European University Of Lefke  
-- 💻 My interest in software development began in childhood and has grown into a passion for building, problem-solving, and exploring cutting-edge technologies  
-- 🏆 Winner of the ITURO 2023 Robotics Competition - Traffic Tracking Robot  
-- 🤖 Hands-on experience in ROS projects with Arduino & Humanoid robots  
-- 🌍 Participant of various international hackathons and trainings like Microsoft Women in AI, NASA for Everyone, and more  
+- 💻 My interest in software development began in childhood and has grown into a passion for building, problem-solving, and exploring cutting-edge technologies   
+- 🤖 Hands-on experience in ROS projects with Arduino & Humanoid robots   
 - 🔬 Currently working on ROS, simulation, and reinforcement learning in robotics  
 
 ---
@@ -55,7 +53,6 @@ A passionate developer with a background in robotics, AI, and instructional tech
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://yilmazafurkan.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
