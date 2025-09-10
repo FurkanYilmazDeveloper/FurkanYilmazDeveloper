@@ -18,7 +18,6 @@ A passionate developer with a background in robotics, AI, and instructional tech
 ## 💻 Tech Stack  
 
 <p align="center">
-  
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -34,7 +33,6 @@ A passionate developer with a background in robotics, AI, and instructional tech
   <img src="https://img.shields.io/badge/Gazebo-FF6F00?style=for-the-badge&logo=ros&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  
 </p>
 
 ---
@@ -48,11 +46,20 @@ A passionate developer with a background in robotics, AI, and instructional tech
   <a href="mailto:furkanyilmaz.andev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://yilmazafurkan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://yilmazafurkan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+</p>
+
 ![](https://github-profile-trophy.vercel.app/?username=furkanyilmaz&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
