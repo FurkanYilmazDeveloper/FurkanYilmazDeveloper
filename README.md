@@ -52,10 +52,6 @@ A passionate developer with a background in robotics, AI, and instructional tech
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
 
 ![](https://github-profile-trophy.vercel.app/?username=furkanyilmaz&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
