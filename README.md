@@ -8,7 +8,6 @@ A passionate developer with a background in robotics, AI, and instructional tech
 ## 📌 About Me
 - 🎓 Currently a senior student at European University Of Lefke  
 - 💻 My interest in software development began in childhood and has grown into a passion for building, problem-solving, and exploring cutting-edge technologies   
-- 🤖 Hands-on experience in ROS projects with Arduino & Humanoid robots   
 - 🔬 Currently working on ROS, simulation, and reinforcement learning in robotics  
 
 ---
